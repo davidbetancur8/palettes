@@ -1,11 +1,11 @@
-text.color : (0,0,102)
+text.color : (0,0,0.4)
 
 # AXES
 axes.titlesize : 35
 axes.titlepad : 20
 axes.labelsize : 27
-axes.edgecolor : (0,0,102)
-axes.labelcolor : (0,0,102)
+axes.edgecolor : (0,0,0.4)
+axes.labelcolor : (0,0,0.4)
 axes.linewidth : 1
 axes.spines.top : False
 axes.spines.right : False
@@ -30,10 +30,10 @@ scatter.marker : .
 
 # TICKS
 xtick.labelsize : 16
-xtick.color : (0,0,102)
+xtick.color : (0,0,0.4)
 xtick.direction : in
 ytick.labelsize : 16
-ytick.color : (0,0,102)
+ytick.color : (0,0,0.4)
 ytick.direction : in
 
 # FIGURE OUTPUT
